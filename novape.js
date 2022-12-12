@@ -4,10 +4,10 @@ const { Typed } = window;
 const typed2 = new Typed('#strike', {
   strings: [
     ' ',
-    'a discordian',
-    'a closet cheater',
-    'an og robloxian',
-    'a kanye west lover',
+    'ZM0F',
+    'the guy from jd',
+    'the guy from the wilderness bear',
+    'best clash royale player',
   ],
   typeSpeed: 80,
   backSpeed: 60,
